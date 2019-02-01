@@ -1,0 +1,33 @@
+body{
+	
+}
+
+h1{
+	color: #303030;
+	text-align: center;
+}
+
+h2{
+	color: #151515;
+	text-align: center;
+}
+
+h3{
+	color: #ff0000;
+	text-align: center;
+}
+
+h4{
+	text-align: center;
+}
+
+
+img{
+	padding: 10px;
+	margin: auto;
+}
+
+.cont img{
+	display: block;
+	margin: auto;
+}
